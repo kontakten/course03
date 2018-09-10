@@ -1,0 +1,7 @@
+C:\Repo\course03\ConsoleApp1\Kursus03b\bin\Debug\Kursus03b.exe.config
+C:\Repo\course03\ConsoleApp1\Kursus03b\bin\Debug\Kursus03b.exe
+C:\Repo\course03\ConsoleApp1\Kursus03b\bin\Debug\Kursus03b.pdb
+C:\Repo\course03\ConsoleApp1\Kursus03b\obj\Debug\Kursus03b.csprojAssemblyReference.cache
+C:\Repo\course03\ConsoleApp1\Kursus03b\obj\Debug\Kursus03b.csproj.CoreCompileInputs.cache
+C:\Repo\course03\ConsoleApp1\Kursus03b\obj\Debug\Kursus03b.exe
+C:\Repo\course03\ConsoleApp1\Kursus03b\obj\Debug\Kursus03b.pdb
